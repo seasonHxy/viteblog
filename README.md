@@ -1,0 +1,2 @@
+# viteblog
+my blog
