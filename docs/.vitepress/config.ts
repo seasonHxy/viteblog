@@ -52,23 +52,23 @@ function getGuideSidebar() {
       text:"JavaScript",
       children: [
         { text: 'JS Basic', link:'/books/jsbase/001_jsbase'},
-        { text: 'NodeJS', link:'/nodejs'},
-        { text: 'React', link:'/react'},
-        { text: 'Vue', link:'/vue'},
+        // { text: 'NodeJS', link:'/nodejs'},
+        // { text: 'React', link:'/react'},
+        // { text: 'Vue', link:'/vue'},
       ]
     },
     {
       text: "Engineering",
       children:[
-        { text: 'JS Basic', link:'/books/engineering/eng.md'},
+        { text: 'Build Tools', link:'/books/engineering/eng.md'},
       ]
     },
-    {
-      text: "Browser", 
-      children:[
-        { text: 'JS Basic', link:'/books/engineering/eng.md'},
-      ]
-    }
+    // {
+    //   text: "Browser", 
+    //   children:[
+    //     { text: 'JS Basic', link:'/books/engineering/eng.md'},
+    //   ]
+    // }
     // {
     //   text: 'Introduction',
     //   children: [
