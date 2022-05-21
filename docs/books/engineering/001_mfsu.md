@@ -6,4 +6,4 @@
 
 ## 模块联邦
 模块联邦其实是一个模块共享池。
-![An image](/js/object_static_func.png)
+![An image](/build_tools/building_mfsu.png)

@@ -195,3 +195,22 @@ console.log(a == 1 && a == 2);//true
 <!-- ![An image](/js/js_function.jpg) -->
 ![An image](/js/js_function_1.png)
 ![An image](/js/js_function_2.png)
+
+## JS 闭包
+![An image](/js/js_bibao.png)
+**循环输出问题**
+![An image](/js/js_bibao_timu.png)
+还有一种：使用setTimeout包裹，通过第三个参数传入。
+（注：setTimeout后面可以有多个参数，从第三个参数开始其就作为回掉函数的附加参数）
+```js
+for(var i=1;i<=5;i++){
+  setTimeout(function timer(j){
+    console.log(j)
+  }, 0, i)
+}
+```
+
+## JS 原型
+![An image](/js/js_proto.png)
+## JS 原型链
+![An image](/js/js_prototype.png)
