@@ -63,6 +63,13 @@ function getGuideSidebar() {
         { text: 'Build Tools', link:'/books/engineering/001_mfsu'},
       ]
     },
+    {
+      text: "Performance",
+      children:[
+        { text: 'Browser', link:'/books/performance/001_broswer_performance'},
+        { text: 'React Application', link:'/books/performance/002_react_performance'},
+      ]
+    },
     // {
     //   text: "Browser", 
     //   children:[
