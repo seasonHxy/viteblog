@@ -196,6 +196,30 @@ console.log(a == 1 && a == 2);//true
 ![An image](/js/js_function_1.png)
 ![An image](/js/js_function_2.png)
 
+- JS 函数的执行中-代码的整体执行过程
+
+![An image](/js/js_whole_process.png)
+
+- JS 函数的执行中-函数执行过程
+![An image](/js/js_func_process.png)
+
+- JS 函数的执行中-执行上下文
+![An image](/js/js_zhixing_type1.png)
+![An image](/js/js_zhixing_type2.png)
+
+- JS 函数的执行中-变量对象
+![An image](/js/js_func_param.png)
+
+- JS 函数的执行中-作用域
+![An image](/js/js_func_yu.png)
+
+
+- JS 函数的执行中-JS查询方式
+![An image](/js/js_func_query.png)
+
+- JS 函数的执行中-作用域链
+![An image](/js/js_func_yu2.png)
+
 ## JS 闭包
 ![An image](/js/js_bibao.png)
 **循环输出问题**
@@ -215,5 +239,3 @@ for(var i=1;i<=5;i++){
 ## JS 原型链
 ![An image](/js/js_prototype.png)
 
-## JS 函数的执行中-代码的整体执行过程
-![An image](/js/js_whole_process.png)
