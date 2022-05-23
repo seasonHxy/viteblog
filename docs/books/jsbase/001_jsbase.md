@@ -214,3 +214,6 @@ for(var i=1;i<=5;i++){
 ![An image](/js/js_proto.png)
 ## JS 原型链
 ![An image](/js/js_prototype.png)
+
+## JS 函数的执行中-代码的整体执行过程
+![An image](/js/js_whole_process.png)
