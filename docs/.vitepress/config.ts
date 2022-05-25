@@ -27,11 +27,11 @@ export default {
 
     nav: [
       { text: 'Guide', link: '/', activeMatch: '^/$|^/guide/' },
-      // {
-      //   text: 'Config Reference',
-      //   link: '/config/basics',
-      //   activeMatch: '^/config/'
-      // },
+      {
+        text: 'Config Reference',
+        link: '/config/basics',
+        activeMatch: '^/config/'
+      },
       // {
       //   text: 'Leaning English',
       //   link '/language/express',
@@ -47,6 +47,7 @@ export default {
     ],
 
     sidebar: {
+      'language': getLanguageSidebar(),
       '/guide/': getGuideSidebar(),
       '/config/': getConfigSidebar(),
       '/': getGuideSidebar()
@@ -125,5 +126,22 @@ function getConfigSidebar() {
         { text: 'Carbon Ads', link: '/config/carbon-ads' }
       ]
     }
+  ]
+}
+
+function getLanguageSidebar() {
+  return [
+    {
+      text: 'Leaning English',
+      children: [{ text: 'Leaning English', link: '/language/express/001_reading' }]
+    },
+    // {
+    //   text: 'Theme Config',
+    //   children: [
+    //     { text: 'Homepage', link: '/config/homepage' },
+    //     { text: 'Algolia Search', link: '/config/algolia-search' },
+    //     { text: 'Carbon Ads', link: '/config/carbon-ads' }
+    //   ]
+    // }
   ]
 }
