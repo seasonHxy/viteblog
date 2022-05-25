@@ -27,10 +27,18 @@ export default {
 
     nav: [
       { text: 'Guide', link: '/', activeMatch: '^/$|^/guide/' },
+      // {
+      //   text: 'Config Reference',
+      //   link: '/config/basics',
+      //   activeMatch: '^/config/'
+      // },
+      // {
+      //   text: 'Leaning English',
+      //   link '/language/express',
+      // }
       {
-        text: 'Config Reference',
-        link: '/config/basics',
-        activeMatch: '^/config/'
+        text: 'Leaning English',
+        link: '/language/express/001_reading',
       },
       // {
       //   text: 'Release Notes',
