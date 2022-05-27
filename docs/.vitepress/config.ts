@@ -1,17 +1,17 @@
 
 export default {
   lang: 'en-US',
-  title: '集群的博客',
-  description: 'Vite & Vue powered static site generator.',
-  lastUpdated: true,
+  title: "Front Shadow's Blog ",
+  description: 'front end powered static site.',
+  // lastUpdated: true,
 
   themeConfig: {
     repo: 'seasonHxy',
     docsDir: 'docs',
     docsBranch: 'main',
-    editLinks: true,
-    editLinkText: 'Edit this page on GitHub',
-    lastUpdated: 'Last Updated',
+    // editLinks: true,
+    // editLinkText: 'Edit this page on GitHub',
+    // lastUpdated: 'Last Updated',
 
     // algolia: {
     //   appId: '8J64VVRP8K',
@@ -27,17 +27,17 @@ export default {
 
     nav: [
       { text: 'Guide', link: '/', activeMatch: '^/$|^/guide/' },
-      {
-        text: 'Config Reference',
-        link: '/config/basics',
-        activeMatch: '^/config/'
-      },
+      // {
+      //   text: 'Config Reference',
+      //   link: '/config/basics',
+      //   activeMatch: '^/config/'
+      // },
       // {
       //   text: 'Leaning English',
       //   link '/language/express',
       // }
       {
-        text: 'Leaning English',
+        text: 'Learning English',
         link: '/language/express/001_reading',
       },
       // {
@@ -77,6 +77,7 @@ function getGuideSidebar() {
       children:[
         { text: 'Browser', link:'/books/performance/001_broswer_performance'},
         { text: 'React Application', link:'/books/performance/002_react_performance'},
+        { text: 'Vue Application', link:'/books/performance/003_vue_proformance'},
       ]
     },
     // {
@@ -133,7 +134,10 @@ function getLanguageSidebar() {
   return [
     {
       text: 'Leaning English',
-      children: [{ text: 'Leaning English', link: '/language/express/001_reading' }]
+      children: [
+        { text: 'Magic Note W1', link: '/language/express/001_reading' },
+        { text: 'Magic Note W2', link: '/language/express/002_reading' }
+      ]
     },
     // {
     //   text: 'Theme Config',
