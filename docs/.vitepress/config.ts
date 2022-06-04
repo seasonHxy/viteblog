@@ -61,6 +61,7 @@ function getGuideSidebar() {
       text:"JavaScript",
       children: [
         { text: 'JS Basic', link:'/books/jsbase/001_jsbase'},
+        { text: 'Broswer', link:'/books/broswer/001_eventloop'},
         // { text: 'NodeJS', link:'/nodejs'},
         // { text: 'React', link:'/react'},
         // { text: 'Vue', link:'/vue'},
