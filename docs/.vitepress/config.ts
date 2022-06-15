@@ -84,9 +84,16 @@ function getGuideSidebar() {
     // {
     //   text: "Browser", 
     //   children:[
-    //     { text: 'JS Basic', link:'/books/engineering/eng.md'},
+    //     { text: 'Broswer', link:'/books/broswer/001_eventloop'},
     //   ]
-    // }
+    // },
+    {
+      text: "Web3.0", 
+      children:[
+        { text: 'MetaMask', link:'/books/web3.0/MetaMask_001'},
+        { text: 'WEB3.0 stack', link:'/books/web3.0/MetaMask_002'},
+      ]
+    }
     // {
     //   text: 'Introduction',
     //   children: [
