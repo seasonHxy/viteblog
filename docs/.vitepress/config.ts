@@ -145,7 +145,7 @@ function getLanguageSidebar() {
       text: 'Leaning English',
       children: [
         { text: 'Magic Note W1', link: '/language/express/001_reading' },
-        { text: 'Magic Note W2', link: '/language/express/002_reading' }
+        { text: 'Magic Note W2', link: '/language/express/002_music' }
       ]
     },
     // {
