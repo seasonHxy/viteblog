@@ -61,7 +61,8 @@ function getGuideSidebar() {
       text: "Web3.0", 
       children:[
         { text: 'MetaMask', link:'/books/web3.0/MetaMask_001'},
-        { text: 'WEB3.0 stack', link:'/books/web3.0/MetaMask_002'},
+        { text: 'WEB3.0 stack2', link:'/books/web3.0/MetaMask_002'},
+        { text: 'First Eth Contract', link: '/books/web3.0/first_eth_contract' }
       ]
     },
     {
