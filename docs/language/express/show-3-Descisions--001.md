@@ -50,7 +50,7 @@ go to Asia for six months. a lot of traval back and forth and i ask myself,
  what kind of investments do you want to own? Do you like real estate? Do you like stocks?
  Do you like bonds, mutual funds? Whatever it is that you wanna invest in, 
  that's clarity you cannot take action and you cannot improve your financial situation.
- if you don't have clarity. Lack of clarity means lack of power. And pow is the ability to take action.
+ if you don't have clarity. Lack of clarity means lack of power. And power is the ability to take action.
  Extreme clarity leads to extreme results.
 
  The third decision, that will change your financial life is this: Decide what price are you willing to pay.
@@ -73,6 +73,15 @@ go to Asia for six months. a lot of traval back and forth and i ask myself,
  be motivated and actually turn those down time into learning time, into growth time make sure you subscribe to my podcasts,
  and keep learning and keep growing, And remember, the decision that you make today will decide where you go in the future.
 
+
+ if you don't have clarity. Lack of clarity means lack of power. And power is the ability to take action.
+ Extreme clarity leads to extreme results.
+
+ Everything you want in life, it has a price. I remember ....
+  I remember, there were nights where I actually literally worked till exhaustion and I fell asleep on my desk.
+
+ That's the price that I pay. While all my friends,they were drinking, partying,and watching sports games, 
+ I didn't do any of that, I was focused, I was obsessed, beacause I was willing to pay for the price for success.
 
 
 
