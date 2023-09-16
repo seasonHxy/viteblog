@@ -58,6 +58,12 @@ export default {
 function getGuideSidebar() {
   return [
     {
+      text: "Go", 
+      children:[
+        { text: 'go-1.1', link:'/books/go/go_1_1'}
+      ]
+    },
+    {
       text: "Web3.0", 
       children:[
         { text: 'MetaMask', link:'/books/web3.0/MetaMask_001'},
