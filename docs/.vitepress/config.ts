@@ -60,7 +60,8 @@ function getGuideSidebar() {
     {
       text: "Go", 
       children:[
-        { text: 'go-1.1', link:'/books/go/go_1_1'}
+        { text: 'go-1.1', link:'/books/go/go_1_1'},
+        { text: 'go-2.1', link:'/books/go/go_2_1'}
       ]
     },
     {
